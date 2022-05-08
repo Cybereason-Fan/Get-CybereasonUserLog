@@ -2,7 +2,7 @@
 
     <#
 .SYNOPSIS
-Fetches the contents of the Cybereason 'User Actions Log' and returns a parsable array
+Fetches the contents of the Cybereason 'User Actions Log' from an on-premises Cybereason API
 
 .DESCRIPTION
 Fetches the contents of the Cybereason 'User Actions Log' and returns a parsable array. The output will be an array of various types of log entry types. It will be up to you what to do next!
