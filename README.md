@@ -5,7 +5,7 @@
 
 ![image](usage-Get-CybereasonUserLog.png)
 
- ❗ You must load this script as a "dot sourced" script (see the screenshot above!)
+❗ You must load this script as a "dot sourced" script (see the screenshot above!)
 ```
 . .\Get-CybereasonUserLog.ps1
 ```
